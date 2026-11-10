@@ -1,0 +1,6 @@
+pythonnet==3.2.1
+google-genai==3.0.0
+fastapi
+uvicorn[standard]
+python-dotenv
+pypdf
